@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [02/Nov/2017:10:24:11 +0800] "GET / HTTP/1.1" 404 949 http-bio-9007-exec-1 189
+0:0:0:0:0:0:0:1 - - [02/Nov/2017:10:24:12 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-9007-exec-3 3
+0:0:0:0:0:0:0:1 - - [02/Nov/2017:10:26:02 +0800] "GET /page/login HTTP/1.1" 200 4043 http-bio-9007-exec-5 1638
+0:0:0:0:0:0:0:1 - - [02/Nov/2017:10:26:02 +0800] "GET /css/login.css HTTP/1.1" 200 28031 http-bio-9007-exec-9 57
+0:0:0:0:0:0:0:1 - - [02/Nov/2017:10:26:02 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 200 92010 http-bio-9007-exec-6 64
+0:0:0:0:0:0:0:1 - - [02/Nov/2017:10:26:02 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 200 6060 http-bio-9007-exec-10 5
+0:0:0:0:0:0:0:1 - - [02/Nov/2017:10:26:02 +0800] "GET /images/login-all-bg.png HTTP/1.1" 200 12219 http-bio-9007-exec-10 5
+0:0:0:0:0:0:0:1 - - [02/Nov/2017:10:26:02 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 200 195803 http-bio-9007-exec-6 16

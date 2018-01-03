@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="CommitDialog.location.y"/>
+	<item value="90" key="CommitDialog.location.x"/>
+	<item value="154" key="HistoryTableProvider.SVNHistoryPage.作者"/>
+	<item value="branches/daishaowen" key="DirectorySelectionPage.lastParent_http://192.168.25.23:81/svn/taotao"/>
+	<item value="500" key="CommitDialog.weights.0"/>
+	<item value="384" key="HistoryTableProvider.SVNHistoryPage.注释"/>
+	<item value="500" key="CommitDialog.weights.1"/>
+	<item value="571" key="CommitDialog.size.y"/>
+	<item value="1186" key="CommitDialog.size.x"/>
+	<item value="193" key="HistoryTableProvider.SVNHistoryPage.日期"/>
+	<item value="497" key="ChooseUrlDialog.size.x"/>
+	<item value="" key="DirectorySelectionPage.lastParent_http://192.168.25.23:81/!/#taotao/view/head/branches/daishaowen"/>
+	<item value="376" key="ChooseUrlDialog.size.y"/>
+	<item value="http://192.168.25.23:81/svn/taotao" key="RepositorySelectionPage.lastRepository"/>
+	<item value="435" key="ChooseUrlDialog.location.x"/>
+	<item value="77" key="HistoryTableProvider.SVNHistoryPage.修订"/>
+	<item value="45" key="ChooseUrlDialog.location.y"/>
+	<section name="CommitWizard">
+		<item value="500" key="VWeight2"/>
+		<item value="500" key="VWeight1"/>
+		<item value="false" key="ShowCompare"/>
+	</section>
+	<section name="SynchronizeResourceSelectionDialog">
+		<item value="" key="SynchronizeResourceSelectionDialog.STORE_WORKING_SETS"/>
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="http://192.168.25.23:81/svn/taotao"/>
+			<item value="http://192.168.25.23:81/!/#taotao/view/head/branches/daishaowen"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>

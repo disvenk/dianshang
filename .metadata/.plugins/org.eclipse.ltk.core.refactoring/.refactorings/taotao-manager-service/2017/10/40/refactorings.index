@@ -1,0 +1,9 @@
+1506836495189	Extract local variable 'createConsumer'
+1506841248598	Extract local variable 'createTextMessage'
+1506845896948	Extract local variable 'createTextMessage'
+1506934329529	Rename package 'com.taotao.item.jedis'
+1506934630665	Copy file
+1507094002489	Copy folder
+1507094061301	Copy folders
+1507377571636	Copy folder
+1507377617106	Copy folders

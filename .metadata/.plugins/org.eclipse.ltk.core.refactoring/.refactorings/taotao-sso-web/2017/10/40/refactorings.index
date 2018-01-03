@@ -1,0 +1,5 @@
+1507094657232	Delete element
+1507099164715	Extract local variable 'checkUserInfo'
+1507104598042	Extract local variable 'createUser'
+1507185729732	Extract local variable 'userLogin'
+1507189333752	Extract local variable 'userLoginServiceImpl2'

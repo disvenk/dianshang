@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=taotao-manager-interface/src\/main\/java&lt;com.taotao.service{ItemService.java[ItemService" modifiers="513" timestamp="1506929170190"/>
+<typeInfo handle="=taotao-manager-service/D:\/develop\/Java\/jdk1.8.0_144\/jre\/lib\/rt.jar&lt;java.awt.event(ItemListener.class[ItemListener" modifiers="1537" timestamp="1501245487829"/>
+<typeInfo handle="=taotao-manager-interface/src\/main\/java&lt;com.taotao.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1505649725907"/>
+<typeInfo handle="=taotao-search-interface/src\/main\/java&lt;com.taotao.search.service{SearchIndexService.java[SearchIndexService" modifiers="513" timestamp="1506188749480"/>
+<typeInfo handle="=taotao-search-web/D:\/.m2\/repository\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet(HandlerExceptionResolver.class[HandlerExceptionResolver" modifiers="1537" timestamp="1463390358000"/>
+<typeInfo handle="=taotao-search-web/D:\/.m2\/repository\/org\/springframework\/spring-webmvc\/4.2.4.RELEASE\/spring-webmvc-4.2.4.RELEASE.jar&lt;org.springframework.web.servlet.mvc.method.annotation(ResponseBodyEmitter$Handler.class[Handler" modifiers="1544" timestamp="1463390358000"/>
+<typeInfo handle="=taotao-sso-interface/src\/main\/java&lt;com.taotao.sso.service{UserRegisterCheck.java[UserRegisterCheck" modifiers="513" timestamp="1507103201785"/>
+<typeInfo handle="=taotao-sso-service/D:\/.m2\/repository\/org\/springframework\/spring-messaging\/4.2.4.RELEASE\/spring-messaging-4.2.4.RELEASE.jar&lt;org.springframework.messaging.simp.user(UserDestinationResolver.class[UserDestinationResolver" modifiers="1537" timestamp="1463390938000"/>
+<typeInfo handle="=taotao-sso-interface/src\/main\/java&lt;com.taotao.sso.service{UserLoginService.java[UserLoginService" modifiers="513" timestamp="1507190076777"/>
+<typeInfo handle="=taotao-sso-service/D:\/develop\/Java\/jdk1.8.0_144\/jre\/lib\/rt.jar&lt;java.nio.file.attribute(UserDefinedFileAttributeView.class[UserDefinedFileAttributeView" modifiers="1537" timestamp="1501245487829"/>
+</typeInfoHistroy>

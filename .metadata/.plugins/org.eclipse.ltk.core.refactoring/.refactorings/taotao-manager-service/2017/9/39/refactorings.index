@@ -1,0 +1,4 @@
+1506330001299	Extract local variable 'createProducer'
+1506342151839	Extract local variable 'createConnection'
+1506342251090	Extract local variable 'createSession'
+1506343189921	Extract local variable 'createConsumer'
